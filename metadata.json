@@ -1,0 +1,6 @@
+{
+  "name": "Math Image → LaTeX & TikZ Generator",
+  "description": "AI-powered tool to convert math images, exam papers, and diagrams into clean, compilable LaTeX and TikZ code with Khmer support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
